@@ -1,0 +1,29 @@
+Python 3.6.7 (default, Oct 22 2018, 11:32:17) 
+[GCC 8.2.0] on linux
+Type "help", "copyright", "credits" or "license()" for more information.
+>>> print ("Hello World")
+Hello World
+>>> print('Hellow Word')
+Hellow Word
+>>> print("Hello Meet")
+Hello Meet
+>>> #print("Hello World")
+>>> 
+======== RESTART: /home/student/rushdi21_lab3/meet2019y1lab3/Echo.py ========
+say something hello, good moarning!
+>>> user
+' hello, good moarning!'
+>>> 
+======== RESTART: /home/student/rushdi21_lab3/meet2019y1lab3/Echo.py ========
+say somethingHello meet, GOOD mORNINIG !
+>>> user.upper()
+'HELLO MEET, GOOD MORNINIG !'
+>>> user.lower()
+'hello meet, good morninig !'
+>>> user.swapcase()
+'hELLO MEET, good Morninig !'
+>>> user.capitalize()
+'Hello meet, good morninig !'
+>>> 
+======== RESTART: /home/student/rushdi21_lab3/meet2019y1lab3/Echo.py ========
+say something
